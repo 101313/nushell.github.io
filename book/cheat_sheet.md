@@ -3,6 +3,13 @@
 ## Data types
 
 ```shell
+    > ps | describe
+```
+
+> **Describe type of value**
+
+---
+```shell
     > "12" | into int
 ```
 
